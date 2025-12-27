@@ -1,7 +1,0 @@
-[general]
-name=AddressSearchToolbar
-version=1.0.0
-qgisMinimumVersion=3.28
-author=Akahane,Noriaki
-email=akahane.noriaki@gmail.com
-description=属性検索とファイル検索を統合した検索ツール

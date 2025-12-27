@@ -1,0 +1,11 @@
+[general]
+name=Address Search Toolbar (FieldSelect + FileSearch)
+description=フリーワードと「さらに絞り込み」で、選択フォルダ配下のファイル名（PDF/画像/Excel/Word等）を検索し、必要ならレイヤ属性も絞り込みます。
+version=1.0.0
+qgisMinimumVersion=3.28
+author=Akahane,Noriaki
+email=akahane.noriaki@gmail.com
+about=フリーワード（上）＋さらに絞り込み（下）を「かつ/または」で組み合わせ、指定フォルダ配下から日本語ファイル名を含むファイルを検索します。
+tracker=
+repository=
+category=Plugins

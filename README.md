@@ -23,8 +23,7 @@ QGIS上で、属性テーブルのフィールドを使って
 
 ## スクリーンショット
 
-![検索ダイアログ](docs/images/dialog.png)
-
+<img width="820" height="836" alt="2026-01-03" src="https://github.com/user-attachments/assets/ae58a867-1305-4b3a-a306-7ab078c9c00b" />
 ---
 
 ## AND / OR の意味
